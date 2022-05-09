@@ -2,7 +2,12 @@
 
 <img src='3AF34648-C61D-47CE-9E56-C496C5A7C240.jpeg' height=250>
 
-This is the official repo of `#30DaysOfStreamlit` — a 30-day social challenge for you to learn, build and deploy [Streamlit](https://streamlit.io) apps.
+GitHub รีโพของ `#30DaysOfStreamlit` นี้ได้ถูกแปลเป็นภาษาไทยโดย ดร.ชนินทร์ นีนทเสนามาตร์
+
+#30DaysOfStreamlit เป็นอีกหนึ่งแหล่งของการเรียนรู้เกี่ยวกับการใช้งาน Streamlit เพื่อสร้าง web app
+
+[Streamlit](https://streamlit.io) เป็น Python library สำหรับการเขียน web application ในลักษณะ low-code โดยใช้เพียงไม่กี่บรรทัดก็สามารถ deploy เป็น web app ที่ใช้งานได้อย่างสมบูรณ์แบบ
+
 
 ## How to participate
 
