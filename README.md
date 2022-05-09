@@ -9,9 +9,12 @@ GitHub รีโพของ `#30DaysOfStreamlit` นี้ได้ถูกแ
 [Streamlit](https://streamlit.io) เป็น Python library สำหรับการเขียน web application ในลักษณะ low-code โดยใช้เพียงไม่กี่บรรทัดก็สามารถ deploy เป็น web app ที่ใช้งานได้อย่างสมบูรณ์แบบ
 
 
-## How to participate
+## วิธีเข้าร่วม
 
-All you need to participate is a computer, a basic understanding of Python, and your curiosity. 🧠
+สิ่งที่คุณต้องมีเพื่อเข้าร่วมมีดังนี้: 🧠
+- คอมพิวเตอร์
+- ความเข้าใจพื้นฐานของ Python
+- ความอยากรู้ และความสนใจ
 
 A new challenge is released daily via Streamlit's [Twitter](https://twitter.com/streamlit) and [LinkedIn](https://www.linkedin.com/company/streamlit/posts/?feedView=all) accounts as well as the [`#30DaysOfStreamlit` app](https://share.streamlit.io/streamlit/30days/).
 
