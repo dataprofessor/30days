@@ -16,12 +16,12 @@ GitHub รีโพของ `#30DaysOfStreamlit` นี้ได้ถูกแ
 - ความเข้าใจพื้นฐานของ Python
 - ความอยากรู้ และความสนใจ
 
-บทเรียนใหม่ฯ จะออกทุกวันในช่องทางต่อไปนี้
+บทเรียนใหม่ฯ จะออกทุกวันผ่านช่องทางดังต่อไปนี้
 - [Twitter](https://twitter.com/streamlit)
 - [LinkedIn](https://www.linkedin.com/company/streamlit/posts/?feedView=all) 
 - [`#30DaysOfStreamlit` app](https://share.streamlit.io/streamlit/30days/) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/30days/)
 
-Complete the daily challenges, share your solutions with us on Twitter or LinkedIn, and get rewarded with cool Streamlit swag! 😎
+คุณสามารถทำภารกิจประจำวัน และแบ่งปันผลงานของคุณผ่านช่องทาง Twitter หรือ LinkedIn และรับรางวัลเป็น Streamlit swag สุดเจ๋ง 😎
 
 ## What are the daily challenges?
 
