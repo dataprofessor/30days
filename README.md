@@ -18,8 +18,8 @@ GitHub รีโพของ `#30DaysOfStreamlit` นี้ได้ถูกแ
 
 บทเรียนใหม่ฯ จะออกทุกวันในช่องทางต่อไปนี้
 - [Twitter](https://twitter.com/streamlit)
-- [LinkedIn](https://www.linkedin.com/company/streamlit/posts/?feedView=all) accounts as well as the [`#30DaysOfStreamlit` app](https://share.streamlit.io/streamlit/30days/).
-- [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/30days/)
+- [LinkedIn](https://www.linkedin.com/company/streamlit/posts/?feedView=all) 
+- [`#30DaysOfStreamlit` app](https://share.streamlit.io/streamlit/30days/) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/30days/)
 
 Complete the daily challenges, share your solutions with us on Twitter or LinkedIn, and get rewarded with cool Streamlit swag! 😎
 
