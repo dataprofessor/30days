@@ -16,7 +16,7 @@ GitHub รีโพของ `#30DaysOfStreamlit` นี้ได้ถูกแ
 - ความเข้าใจพื้นฐานของ Python
 - ความอยากรู้ และความสนใจ
 
-บทเรียนใหม่ฯ จะออกทุกวันผ่านช่องทางดังต่อไปนี้
+บทเรียนใหม่ฯ จะออกทุกวันในเดือนเมษายน 2022 ผ่านช่องทางดังต่อไปนี้
 - [Twitter](https://twitter.com/streamlit)
 - [LinkedIn](https://www.linkedin.com/company/streamlit/posts/?feedView=all) 
 - [`#30DaysOfStreamlit` app](https://share.streamlit.io/streamlit/30days/) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/30days/)
