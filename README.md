@@ -31,7 +31,7 @@ GitHub รีโพของ `#30DaysOfStreamlit` นี้ได้ถูกแ
 
 | ระดับเริ่มต้น (วันที่ 1-7) | ระดับกลาง (วันที่ 8-23) | ระดับสูง (วันที่ 24-30) |
 | :---        |    :----   |          :--- |
-| Set up your local and cloud coding environments, install Streamlit, and build your first Streamlit app.| Learn about a new [Streamlit command](https://docs.streamlit.io/library/api-reference) each day and use it to create and deploy a simple Streamlit app. | Learn about important topics such as session state, efficient data and memory management via caching, complex layouts, and much more.
+| การติดตั้งสภาพแวดล้อมสำหรับการพัฒนาโค้ด, การติดตั้ง Streamlit และการสร้างเว็บแอปด้วย Streamlit  | เรียนรู้เกี่ยวกับการใช้งาน [คำสั่งต่างๆ ของ Streamlit](https://docs.streamlit.io/library/api-reference) ในแต่ละวันที่คุณสามารถใช้ในการพัฒนาเว็บแอปด้วย Streamlit | เรียนรู้เกี่ยวกับเรื่องสำคัญต่างๆเช่น การใช้ session state, การบริหารจัดการข้อมูลและหน่วยความจำอย่างมีประสิทธิภาพ, การจัดรูปแบบของแอป และอื่น ๆ
 
 ## Prizes
 
