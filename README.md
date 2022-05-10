@@ -4,9 +4,9 @@
 
 GitHub รีโพสำหรับ `30 วันแห่ง Streamlit` (`#30DaysOfStreamlit`) นี้ได้ถูกแปลเป็นภาษาไทยโดย ดร.ชนินทร์ นีนทเสนามาตร์
 
-`#30DaysOfStreamlit` เป็นอีกหนึ่งแหล่งของการเรียนรู้เกี่ยวกับการใช้งาน Streamlit เพื่อสร้าง web app
+`#30DaysOfStreamlit` เป็นอีกหนึ่งแหล่งของการเรียนรู้เกี่ยวกับการใช้งาน Streamlit เพื่อสร้างเว็บแอป (web application)
 
-[Streamlit](https://streamlit.io) เป็น Python library สำหรับการเขียน web application ในลักษณะ low-code โดยใช้เพียงไม่กี่บรรทัดก็สามารถ deploy เป็น web app ที่ใช้งานได้อย่างสมบูรณ์แบบ
+[Streamlit](https://streamlit.io) เป็น Python library สำหรับการเขียนเว็บแอป ในลักษณะ low-code โดยใช้เพียงไม่กี่บรรทัดก็สามารถ deploy เป็นเว็บแอปที่ใช้งานได้อย่างสมบูรณ์แบบ
 
 
 ## วิธีเข้าร่วม
