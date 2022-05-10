@@ -1,4 +1,4 @@
-# 30 วันแห่ง Streamlit | 30 Days Of Streamlit 🎈
+# 30 วันแห่ง Streamlit (30 Days Of Streamlit) 🎈
 
 <img src='3AF34648-C61D-47CE-9E56-C496C5A7C240.jpeg' height=250>
 
@@ -29,7 +29,7 @@ GitHub รีโพของ `#30DaysOfStreamlit` นี้ได้ถูกแ
 
 `30 วันแห่ง Streamlit` สามารถแบ่งออกเป็น 3 ระดับความยากที่เหมาะกับผู้เข้าร่วมทุกระดับทักษะดังนี้
 
-| Beginner (Days 1-7) | Intermediate (Days 8-23) | Advanced (Days 24-30) |
+| ระดับเริ่มต้น (วันที่ 1-7) | ระดับกลาง (วันที่ 8-23) | ระดับสูง (วันที่ 24-30) |
 | :---        |    :----   |          :--- |
 | Set up your local and cloud coding environments, install Streamlit, and build your first Streamlit app.| Learn about a new [Streamlit command](https://docs.streamlit.io/library/api-reference) each day and use it to create and deploy a simple Streamlit app. | Learn about important topics such as session state, efficient data and memory management via caching, complex layouts, and much more.
 
