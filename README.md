@@ -1,4 +1,4 @@
-# 30 Days Of Streamlit 🎈
+# 30 วันแห่ง Streamlit | 30 Days Of Streamlit 🎈
 
 <img src='3AF34648-C61D-47CE-9E56-C496C5A7C240.jpeg' height=250>
 
