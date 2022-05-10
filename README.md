@@ -37,9 +37,9 @@ GitHub รีโพของ `#30DaysOfStreamlit` นี้ได้ถูกแ
 
 หากการเรียนรู้เกี่ยวกับวิธีที่เร็วและง่ายที่สุดในการสร้างแอปข้อมูลไม่เพียงพอ นอกจากนี้คุณยังสามารถลุ้นรับรางวัล Streamlit สุดเจ๋งอีกด้วย
 
-Complete the daily challenges, share your solutions with us on [Twitter](https://twitter.com/streamlit) or [LinkedIn](https://www.linkedin.com/company/streamlit/posts/?feedView=all), and get rewarded with cool Streamlit swag! 🎁
+หลังจากที่คุณทำภารกิจการเรียนรู้ประจำวันเสร็จแล้ว คุณสามารถแบ่งปันผลงานของคุณผ่านช่องทาง [Twitter](https://twitter.com/streamlit) และ [LinkedIn](https://www.linkedin.com/company/streamlit/posts/?feedView=all) 🎁
 
-## Resources
+## แหล่งการเรียนรู้
 
 - The official [`#30DaysOfStreamlit` app](https://share.streamlit.io/streamlit/30days/) where daily challenges are posted
 - Our [Twitter](https://twitter.com/streamlit) and [LinkedIn](https://www.linkedin.com/company/streamlit/posts/?feedView=all) feeds for daily updates
