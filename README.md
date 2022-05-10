@@ -19,7 +19,7 @@ GitHub รีโพสำหรับ `30 วันแห่ง Streamlit` (`#30
 บทเรียนใหม่ฯ จะออกทุกวันในเดือนเมษายน 2022 ผ่านช่องทางดังต่อไปนี้
 - [Twitter](https://twitter.com/streamlit)
 - [LinkedIn](https://www.linkedin.com/company/streamlit/posts/?feedView=all) 
-- [`#30DaysOfStreamlit` app](https://share.streamlit.io/streamlit/30days/) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/30days/)
+- เว็บแอปของ [`#30DaysOfStreamlit`](https://share.streamlit.io/streamlit/30days/) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/30days/)
 
 คุณสามารถทำภารกิจประจำวัน และแบ่งปันผลงานของคุณผ่านช่องทาง Twitter หรือ LinkedIn และรับรางวัลเป็น Streamlit swag สุดเจ๋ง 😎
 
