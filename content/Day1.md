@@ -3,8 +3,8 @@
 ก่อนที่เราจะเริ่มสร้างแอป Streamlit ได้ เราจะเริ่มต้นด้วยการติดตั้งสภาพแวดล้อม conda สำหรับการเขียนโค้ด
 
 ## **การติดตั้ง conda**
-- Install `conda` by going to https://docs.conda.io/en/latest/miniconda.html and choose your operating system (Windows, Mac or Linux). 
-- Download and run the installer to install `conda`.
+- คุณสามารถติดตั้ง `conda` ได้โดยไปที่ https://docs.conda.io/en/latest/miniconda.html และเลือกระบบปฏิบัติการของคุณ (Windows, Mac หรือ Linux)
+- ทำการดาวน์โหลด และติดตั้ง `conda`.
 
 ## **การสร้างสภาพแวดล้อม conda ใหม่**
 Now that you have conda installed, let's create a conda environment for managing all the Python library dependencies.
