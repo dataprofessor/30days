@@ -2,7 +2,7 @@
 
 <img src='3CF94DF2-800F-4696-BB9E-C86D38B73779.png' height=250>
 
-GitHub รีโพสำหรับ `30 วันแห่ง Streamlit` (`#30DaysOfStreamlit`) นี้ได้ถูกแปลเป็นภาษาไทยโดย ดร.ชนินทร์ นีนทเสนามาตร์
+GitHub รีโพสำหรับ `30 วันแห่ง Streamlit` (`#30DaysOfStreamlit`) นี้ได้ถูกแปลเป็นภาษาไทยโดย ดร.ชนินทร์ นีนทเสนามาตร์ ([dataprofessor](https://github.com/dataprofessor))
 
 `#30DaysOfStreamlit` เป็นอีกหนึ่งแหล่งของการเรียนรู้เกี่ยวกับการใช้งาน Streamlit เพื่อสร้างเว็บแอป (web application)
 
@@ -51,5 +51,5 @@ GitHub รีโพสำหรับ `30 วันแห่ง Streamlit` (`#30
 
 ถ้าคุณอยากช่วยเราขยายขอบเขตการเข้าถึง `#30DaysOfStreamlit` คุณสามารถช่วยเราแปลบทเรียนเหล่านี้เป็นภาษาที่คุณถนัด และโปรดเพิ่มลิงค์ของคุณด้านล่างนี้
 - [ภาษาอังกฤษ](https://github.com/streamlit/30days) (Official): [![30 Days of Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/30days)
-- [ภาษาโปรตุเกส](https://github.com/franciscoed/30days) (by [franciscoed](https://github.com/franciscoed)): [![30 Dias de Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/franciscoed/30days)
-- [ภาษาไทย](https://github.com/dataprofessor/30days) (by [dataprofessor](https://github.com/dataprofessor)): [![30 วันแห่ง Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/30days)
+- [ภาษาโปรตุเกส](https://github.com/franciscoed/30days) (แปลโดย [franciscoed](https://github.com/franciscoed)): [![30 Dias de Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/franciscoed/30days)
+- [ภาษาไทย](https://github.com/dataprofessor/30days) (แปลโดย [dataprofessor](https://github.com/dataprofessor)): [![30 วันแห่ง Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/30days)
