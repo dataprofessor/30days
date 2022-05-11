@@ -1,8 +1,6 @@
 # การติดตั้งสภาพแวดล้อมสำหรับการพัฒนาโค้ด
 
-Before we can actually start building Streamlit apps, we will first have to setup a development environment.
-
-Let's start by installing and setting up a conda environment.
+ก่อนที่เราจะเริ่มสร้างแอป Streamlit ได้ เราจะเริ่มต้นด้วยการติดตั้งสภาพแวดล้อม conda สำหรับการเขียนโค้ด
 
 ## **การติดตั้ง conda**
 - Install `conda` by going to https://docs.conda.io/en/latest/miniconda.html and choose your operating system (Windows, Mac or Linux). 
