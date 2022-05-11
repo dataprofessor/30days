@@ -43,8 +43,8 @@ GitHub รีโพสำหรับ `30 วันแห่ง Streamlit` (`#30
 
 - เว็บแอปของ [`#30DaysOfStreamlit`](https://share.streamlit.io/streamlit/30days/) ที่มีการโพสต์ภารกิจการเรียนรู้ประจำวัน
 - [Twitter](https://twitter.com/streamlit) และ [LinkedIn](https://www.linkedin.com/company/streamlit/posts/?feedView=all) ที่จะอัพเดทข่าวสารและสาระน่ารู้เกี่ยวกับ Streamlit ได้ทุกวัน
-- Streamlit [documentation](https://docs.streamlit.io/) และ [cheat sheet](https://docs.streamlit.io/library/cheatsheet) for a thorough reference of Streamlit commands
-- Our awesome [Gallery](https://streamlit.io/gallery) for inspiration, templates, and community apps
+- [Documentation](https://docs.streamlit.io/) และ [cheat sheet](https://docs.streamlit.io/library/cheatsheet) ที่สรุปชุดคำสั่งต่างๆ ของ Streamlit
+- [Gallery](https://streamlit.io/gallery) เป็นการรวบรวมของแอปจากชุมชนผู้พัฒนาที่สามารถให้แรงบันดาลใจ และเทมเพลตตัวอย่าง
 - Our [blog](https://blog.streamlit.io/how-to-master-streamlit-for-data-science/) for tips and the latest Streamlit info
 
 ## Translations
