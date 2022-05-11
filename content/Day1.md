@@ -1,14 +1,14 @@
-# Setting up a local development environment
+# การติดตั้งสภาพแวดล้อมสำหรับการพัฒนาโค้ด
 
 Before we can actually start building Streamlit apps, we will first have to setup a development environment.
 
 Let's start by installing and setting up a conda environment.
 
-## **Install conda**
+## **การติดตั้ง conda**
 - Install `conda` by going to https://docs.conda.io/en/latest/miniconda.html and choose your operating system (Windows, Mac or Linux). 
 - Download and run the installer to install `conda`.
 
-## **Create a new conda environment**
+## **การสร้างสภาพแวดล้อม conda ใหม่**
 Now that you have conda installed, let's create a conda environment for managing all the Python library dependencies.
 
 To create a new environment with Python 3.9, enter the following:
@@ -18,7 +18,7 @@ conda create -n stenv python=3.9
 
 where `create -n stenv` will create a conda environment named `stenv` and `python=3.9` will setup the conda environment with Python version 3.9.
 
-## **Activate the conda environment**
+## **การเริ่มใช้งานสภาพแวดล้อม conda**
 
 To use a conda environment that we had just created that is named `stenv`, enter the following into the command line:
 
@@ -26,14 +26,14 @@ To use a conda environment that we had just created that is named `stenv`, enter
 conda activate stenv
 ```
 
-## **Install the Streamlit library**
+## **การติดตั้ง Streamlit library**
 
 It's now time to install the `streamlit` library:
 ```bash
 pip install streamlit
 ```
 
-## **Launching the Streamlit demo app**
+## **การดำเนินการเรียกใช้แอพ Streamlit**
 To launch the Streamlit demo app (Figure 1) type:
 ```bash
 streamlit hello
