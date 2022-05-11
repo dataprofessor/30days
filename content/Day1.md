@@ -7,14 +7,15 @@
 - ทำการดาวน์โหลด และติดตั้ง `conda`.
 
 ## **การสร้างสภาพแวดล้อม conda ใหม่**
-Now that you have conda installed, let's create a conda environment for managing all the Python library dependencies.
 
-To create a new environment with Python 3.9, enter the following:
+หลังจากที่คุณได้ติดตั้ง conda แล้ว เรามาสร้างสภาพแวดล้อม conda สำหรับการจัดการ การพึ่งพาไลบรารีไพธอนทั้งหมด
+
+เราสามารถสร้างสภาพแวดล้อมใหม่ด้วย Python 3.9 โดยป้อนข้อมูลดังต่อไปนี้
 ```bash
 conda create -n stenv python=3.9
 ```
 
-where `create -n stenv` will create a conda environment named `stenv` and `python=3.9` will setup the conda environment with Python version 3.9.
+โดยชุดคำสั่ง `create -n stenv` จะสร้างสภาพแวดล้อม conda ใหม่ที่มีชื่อ `stenv` และ `python=3.9` จะติดตั้งไพธอนเวอร์ชั่น 3.9
 
 ## **การเริ่มใช้งานสภาพแวดล้อม conda**
 
