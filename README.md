@@ -50,6 +50,6 @@ GitHub รีโพสำหรับ `30 วันแห่ง Streamlit` (`#30
 ## การแปล
 
 ถ้าคุณอยากช่วยเราขยายขอบเขตการเข้าถึง `#30DaysOfStreamlit` คุณสามารถช่วยเราแปลบทเรียนเหล่านี้เป็นภาษาที่คุณถนัด และโปรดเพิ่มลิงค์ของคุณด้านล่างนี้
-- [English](https://github.com/streamlit/30days): [![30 Days of Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/30days)
+- [English](https://github.com/streamlit/30days) (Official): [![30 Days of Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/30days)
 - [Portuguese](https://github.com/franciscoed/30days) (by [franciscoed](https://github.com/franciscoed)): [![30 Dias de Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/franciscoed/30days)
 - [Thai](https://github.com/dataprofessor/30days) (by [dataprofessor](https://github.com/dataprofessor)): [![30 วันแห่ง Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/30days)
