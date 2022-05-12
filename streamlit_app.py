@@ -38,7 +38,7 @@ with st.expander("เกี่ยวกับ #30DaysOfStreamlit"):
 
 # Sidebar
 st.sidebar.header('เกี่ยวกับ')
-st.sidebar.markdown('[Streamlit](https://streamlit.io) เป็นไพธอนไลบรารีสำหรับการเขียนเว็บแอปที่มีความสามารถในการขับเคลื่อนด้วยข้อมูล')
+st.sidebar.markdown('[Streamlit](https://streamlit.io) เป็นไพธอนไลบรารีสำหรับการเขียนเว็บแอปที่มีความสามารถในการขับเคลื่อนด้วยข้อมูลโดยไม่จำเป็นต้องมีความรู้เกี่ยวกับ HTML, CSS และ Javascript')
 
 st.sidebar.header('แหล่งทรัพยากรการเรียนรู้')
 st.sidebar.markdown('''
