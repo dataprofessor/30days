@@ -15,9 +15,9 @@ md_files = sorted([int(x.strip('Day').strip('.md')) for x in glob.glob1('content
 col1, col2, col3 = st.columns((1,4,1))
 with col2:
     st.image(Image.open('streamlit-logo-secondary-colormark-darktext.png'))
-st.markdown('# 30 Days of Streamlit')
+st.markdown('# 30 วันแห่ง Streamlit')
 
-days_list = [f'Day {x}' for x in md_files]
+days_list = [f'วันที่ {x}' for x in md_files]
 
 query_params = st.experimental_get_query_params()
 
@@ -26,9 +26,9 @@ if query_params and query_params["challenge"][0] in days_list:
 
 selected_day = st.selectbox('Start the Challenge 👇', days_list, key="day", on_change=update_params)
 
-with st.expander("About the #30DaysOfStreamlit"):
+with st.expander("เกี่ยวกับ #30DaysOfStreamlit"):
     st.markdown('''
-    The **#30DaysOfStreamlit** is a coding challenge designed to help you get started in building Streamlit apps.
+    # **30 วันแห่ง Streamlit** (**30DaysOfStreamlit**) เป็นกิจกรรมการเรียนรู้ที่ออกแบบมาเพื่อช่วยให้คุณเรียนรู้และเริ่มต้นสร้างแอพด้วย Streamlit
     
     Particularly, you'll be able to:
     - Set up a coding environment for building Streamlit apps
