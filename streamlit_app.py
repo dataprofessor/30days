@@ -42,10 +42,10 @@ st.sidebar.markdown('[Streamlit](https://streamlit.io) เป็นไพธอ�
 
 st.sidebar.header('แหล่งทรัพยากรการเรียนรู้')
 st.sidebar.markdown('''
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [Cheat sheet](https://docs.streamlit.io/library/cheatsheet)
-- [Book](https://www.amazon.com/dp/180056550X) (Getting Started with Streamlit for Data Science)
-- [Blog](https://blog.streamlit.io/how-to-master-streamlit-for-data-science/) (How to master Streamlit for data science)
+- [เอกสารอ้างอิงของ Streamlit](https://docs.streamlit.io/)
+- [ใบสรุปคำสั่งทั้งหมดของ Streamlit](https://docs.streamlit.io/library/cheatsheet)
+- [หนังสือ](https://www.amazon.com/dp/180056550X) (Getting Started with Streamlit for Data Science)
+- [บทความบล็อก](https://blog.streamlit.io/how-to-master-streamlit-for-data-science/) (How to master Streamlit for data science)
 ''')
 
 st.sidebar.header('นำแอพลงเว็บ')
