@@ -37,10 +37,10 @@ with st.expander("เกี่ยวกับ #30DaysOfStreamlit"):
     ''')
 
 # Sidebar
-st.sidebar.header('About')
-st.sidebar.markdown('[Streamlit](https://streamlit.io) is a Python library that allows the creation of interactive, data-driven web applications in Python.')
+st.sidebar.header('เกี่ยวกับ')
+st.sidebar.markdown('[Streamlit](https://streamlit.io) เป็นไพธอนไลบรารีสำหรับการเขียนเว็บแอปที่มีความสามารถในการขับเคลื่อนด้วยข้อมูล')
 
-st.sidebar.header('Resources')
+st.sidebar.header('แหล่งทรัพยากรการเรียนรู้')
 st.sidebar.markdown('''
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [Cheat sheet](https://docs.streamlit.io/library/cheatsheet)
@@ -60,7 +60,7 @@ for i in days_list:
             st.markdown(f.read())
         if os.path.isfile(f'content/figures/{j}.csv') == True:
             st.markdown('---')
-            st.markdown('### Figures')
+            st.markdown('### รูป')
             df = pd.read_csv(f'content/figures/{j}.csv', engine='python')
             for i in range(len(df)):
                 st.image(f'content/images/{df.img[i]}')
