@@ -32,8 +32,8 @@ with st.expander("เกี่ยวกับ #30DaysOfStreamlit"):
     
     นี่คือสิ่งที่คุณจะได้เรียนรู้
     - การติดตั้งสภาพแวดล้อมสำหรับการพัฒนาโค้ด
-    - การสร้างเว็บแอปอันแรกด้วย Streamlit
-    - Learn about all the awesome input/output widgets to use for your Streamlit app
+    - การสร้างเว็บแอปอันแรกของคุณด้วย Streamlit
+    - เรียนรู้เกี่ยวกับวิดเจ็ตอินพุต/เอาต์พุตต่างๆ ที่คุณสามารถใช้ในเว็บแอป Streamlit ของคุณ
     ''')
 
 # Sidebar
