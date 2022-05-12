@@ -28,11 +28,11 @@ selected_day = st.selectbox('เริ่มต้นการเรียนร
 
 with st.expander("เกี่ยวกับ #30DaysOfStreamlit"):
     st.markdown('''
-    **30 วันแห่ง Streamlit** (**30DaysOfStreamlit**) เป็นกิจกรรมการเรียนรู้ที่ออกแบบมาเพื่อช่วยให้คุณเรียนรู้และเริ่มต้นสร้างแอพด้วย Streamlit
+    **30 วันแห่ง Streamlit** (**30DaysOfStreamlit**) เป็นกิจกรรมการเรียนรู้ที่ออกแบบมาเพื่อช่วยให้คุณเรียนรู้และเริ่มต้นในการสร้างแอพด้วย Streamlit
     
     นี่คือสิ่งที่คุณจะได้เรียนรู้
-    - Set up a coding environment for building Streamlit apps
-    - Build your first Streamlit app
+    - การติดตั้งสภาพแวดล้อมสำหรับการพัฒนาโค้ด
+    - การสร้างเว็บแอปอันแรกด้วย Streamlit
     - Learn about all the awesome input/output widgets to use for your Streamlit app
     ''')
 
