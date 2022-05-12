@@ -48,7 +48,7 @@ st.sidebar.markdown('''
 - [Blog](https://blog.streamlit.io/how-to-master-streamlit-for-data-science/) (How to master Streamlit for data science)
 ''')
 
-st.sidebar.header('Deploy')
+st.sidebar.header('นำแอพลงเว็บ')
 st.sidebar.markdown('คุณสามารถนำเว็บแอปที่เขียนด้วย Streamlit ไปแขวนบนเว็บโดยใช้ [Streamlit Cloud](https://streamlit.io/cloud) ในเพียงไม่กี่คลิก')
 
 # Display content
