@@ -33,7 +33,8 @@ pip install streamlit
 ```
 
 ## **การดำเนินการเรียกใช้แอพ Streamlit**
-To launch the Streamlit demo app (Figure 1) type:
+
+ในที่สุดเราก็สามารถเปิดแอพตัวอย่างได้ดังนี้
 ```bash
 streamlit hello
 ```
