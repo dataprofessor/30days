@@ -54,7 +54,7 @@ st.sidebar.markdown('You can quickly deploy Streamlit apps using [Streamlit Clou
 # Display content
 for i in days_list:
     if selected_day == i:
-        st.markdown(f'# 🗓️ {i.replace("Day", "วันที่")}')
+        st.markdown(f'# 🗓️ {i}')
         j = i.replace(' ', '')
         with open(f'content/{j}.md', 'r') as f:
             st.markdown(f.read())
