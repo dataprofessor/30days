@@ -19,7 +19,7 @@ conda create -n stenv python=3.9
 
 ## **การเริ่มใช้งานสภาพแวดล้อม conda**
 
-To use a conda environment that we had just created that is named `stenv`, enter the following into the command line:
+ในการใช้สภาพแวดล้อม `conda` ที่เราเพิ่งสร้างขึ้นที่ชื่อ `stenv` เราสามารถป้อนชุดคำสั่งดังนี้
 
 ```bash
 conda activate stenv
@@ -27,7 +27,7 @@ conda activate stenv
 
 ## **การติดตั้ง Streamlit library**
 
-It's now time to install the `streamlit` library:
+เราสามารถติดตั้งไลบรารี `streamlit' ได้โดยใช้ชุดคำสั่งดังนี้
 ```bash
 pip install streamlit
 ```
