@@ -50,6 +50,11 @@ GitHub รีโพสำหรับ `30 วันแห่ง Streamlit` (`#30
 ## การแปล
 
 ถ้าคุณอยากช่วยเราขยายขอบเขตการเข้าถึง `#30DaysOfStreamlit` คุณสามารถช่วยเราแปลบทเรียนเหล่านี้เป็นภาษาที่คุณถนัด และโปรดเพิ่มลิงค์ของคุณด้านล่างนี้
-- [ภาษาอังกฤษ](https://github.com/streamlit/30days) (Official): [![30 Days of Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/30days)
-- [ภาษาโปรตุเกส](https://github.com/franciscoed/30days) (แปลโดย [franciscoed](https://github.com/franciscoed)): [![30 Dias de Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/franciscoed/30days)
-- [ภาษาไทย](https://github.com/dataprofessor/30days) (แปลโดย [dataprofessor](https://github.com/dataprofessor)): [![30 วันแห่ง Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/30days)
+- [ภาษาอังกฤษ](https://github.com/streamlit/30days) (Official): [![30 Days of Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://30days.streamlit.app)
+- [ภาษาจีน](https://github.com/TeddyHuang-00/30days-Chinese) (แปลโดย [TeddyHuang-00](https://github.com/TeddyHuang-00)): [![30 天学 Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://30days-chinese.streamlit.app)
+- [ภาษาสเปน](https://github.com/streamlit/30days-spanish/) (แปลโดย by [Emiliano Rosso](https://github.com/arraydude)): [![30 Dias de Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://30days-in-spanish.streamlit.app/)
+- [ภาษาฝรั่งเศส](https://github.com/streamlit/30days-French) ((แปลโดย [Charly Wargnier](https://github.com/charlyWargnier/)): [![30 Days of Streamlit en Français!](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://30days-in-french.streamlit.app/)
+- [ภาษาโปแลนด์](https://github.com/streamlit/30days-polish) (แปลโดย [Michał Nowotka](https://github.com/sfc-gh-mnowotka)): [![Streamlit w 30 dni po Polsku](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://w30dni.streamlit.app/)
+- [ภาษาโปรตุเกส](https://github.com/franciscoed/30days) (แปลโดย [franciscoed](https://github.com/franciscoed)): [![30 Dias de Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://30dias.streamlit.app/)
+- [ภาษารัสเซีย](https://github.com/kseniaanske/30days) (แปลโดย [Ksenia Anske](https://github.com/kseniaanske)): [![30 Дней Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://30days-in-russian.streamlit.app/)
+- [ภาษาไทย](https://github.com/dataprofessor/30days) (แปลโดย [dataprofessor](https://github.com/dataprofessor)): [![30 วันแห่ง Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://30days-in-thai.streamlit.app/)
