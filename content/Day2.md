@@ -1,14 +1,14 @@
-# Building your first Streamlit app
+# สร้างแอปด้วย Streamlit ครั้งแรกของคุณ
 
-## Fire up your IDE
+## เปิด IDE ของคุณ
 
-Fire up your IDE whether it be Atom, VS Code or even a cloud IDE such as GitPod or GitHub.dev.
+เปิด IDE ของคุณไม่ว่าจะเป็น Atom, VS Code หรือแม้แต่ cloud IDE เช่น GitPod หรือ GitHub.dev
 
-Create a file called `streamlit_app.py`
+สร้างไฟล์ชื่อ `streamlit_app.py`
 
-## Entering your first lines of code
+## พิมพ์โค้ดบรรทัดแรกของคุณ
 
-To the newly created file, enter the following lines of code:
+ในไฟล์ที่สร้างใหม่ ให้พิมพ์โค้ดดังนี้
 
 ```
 import streamlit as st
@@ -16,16 +16,16 @@ import streamlit as st
 st.write('Hello world!')
 ```
 
-Save the file.
+หลังจากนั้นก็บันทึกไฟล์
 
-## Fire up the command line terminal
+## เปิดหน้าต่างบรรทัดคำสั่ง (command line terminal)
 
-To the terminal, enter the following:
+ในหน้าต่างบรรทัดคำสั่ง ให้พิมพ์โค้ดดังนี้
 
 ```
 streamlit run streamlit_app.py
 ```
 
-A browser window should pop-up showing the newly created Streamlit app.
+หน้าต่างเว็บเบราว์เซอร์จะปรากฏ และแสดงแอป Streamlit ที่เพิ่งสร้างใหม่
 
-**Congratulations!** You have just created your first Streamlit app!
+**ขอแสดงความยินดี!** คุณเพิ่งสร้างแอป Streamlit อันแรกของคุณ!
