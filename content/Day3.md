@@ -11,15 +11,15 @@
 1. เมื่อโหลดแอปข้อความ `Goodbye` จะปรากฏขึ้น
 2. เมื่อคลิกที่ปุ่มแอปจะแสดงข้อความที่สอง `Why hello there`
 
-## Demo app
+## แอปตัวอย่าง
 
-แอปที่ถูก deploy บน Streamlit Community Cloud จะมีลักษณะเช่นในลิงก์ด้านล่างนี้
+แอปที่ถูก deploy บน Streamlit Community Cloud จะมีลักษณะที่แสดงในลิงก์ด้านล่างนี้
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st.button/)
 
-## Code
+## โค้ด
 
-Here's the code to implement the above mentioned app:
+โค้ดสำหรับสร้างแอปที่กล่าวข้างต้น จะแสดงไว้ด้านล่างนี่
 
 ```python
 import streamlit as st
