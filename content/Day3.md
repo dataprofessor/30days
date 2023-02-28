@@ -69,18 +69,18 @@ st.write('Why hello there')
 st.write('Goodbye')
 ```
 
-It is important to note that the above `st.write` statements are placed under the `if` and `else` conditions in order to perform the above mentioned process of alternative displaying of messages
+เราสามารถสังเกตเห็นว่าข้อความ `st.write` ข้างต้นอยู่ภายใต้เงื่อนไข `if` และ `else` เพื่อแสดงข้อความหลักหรือข้อความทางเลือก
 
-## Next steps
+## ขั้นตอนถัดไป
 
-Now that you have created the Streamlit app locally, it's time to deploy it to [Streamlit Cloud](https://streamlit.io/cloud) as will be explained soon in an upcoming challenge.
+ตอนนี้คุณก็สามารถสร้างแอป Streamlit บนเครื่องคอมพิวเตอร์ของคุณแล้ว ขั้นตอนต่อไปคือการ deploy แอปโดยใช้ [Streamlit Cloud](https://streamlit.io/cloud) ซึ่งจะอธิบายในบทเรียนต่อไป
 
-Because this is the first week of your challenge, we provide the full code (as shown in the code box above) and solution (the demo app) right inside this webpage.
+เนื่องจากนี่เป็นสัปดาห์แรกของความท้าทายการเรียนรู้ เราจึงจัดเตรียมโค้ดทั้งหมด (ดังที่แสดงในช่องโค้ดด้านบน) และผลลัพธ์ (แอปตัวอย่าง) ไว้ในหน้าเว็บนี้
 
-Moving forward in the next challenges, it is recommended that you first try implementing the Streamlit app yourself.
+ในบทเรียนต่อไปขอแนะนำให้ผู้เรียนพยายามพัฒนาแอปโดยตัวท่านเอง
 
-Don't worry if you get stuck, you can always take a peek at the solution.
+ไม่ต้องกังวลหากคุณติดขัด คุณสามารถดูวิธีแก้ปัญหาได้ตลอดเวลาจากแอปตัวอย่าง
 
-## References
+## บทความอ้างอิง
 
-Read about [`st.button`](https://docs.streamlit.io/library/api-reference/widgets/st.button) in the Streamlit API Documentation.
+คุณสามารถอ่านเกี่ยวกับ [`st.button`](https://docs.streamlit.io/library/api-reference/widgets/st.button) จาก Streamlit API Documentation.
