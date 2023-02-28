@@ -8,8 +8,8 @@
 
 ขั้นตอนการทำงานของแอป
 
-1. By default, the app prints `Goodbye`
-2. Upon clicking on the button, the app displays the alternative message `Why hello there`
+1. เมื่อโหลดแอปข้อความ `Goodbye` จะปรากฏขึ้น
+2. เมื่อคลิกที่ปุ่มแอปจะแสดงข้อความที่สอง `Why hello there`
 
 ## Demo app
 
