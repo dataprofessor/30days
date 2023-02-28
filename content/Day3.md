@@ -32,21 +32,20 @@ else:
      st.write('Goodbye')
 ```
 
-## Line-by-line explanation
+## คำอธิบายทีละบรรทัด
 
-The very first thing to do when creating a Streamlit app is to start by importing the `streamlit` library as `st` like so:
+สิ่งแรกที่ต้องทำเมื่อสร้างแอป Streamlit คือเริ่มด้วยการนำเข้าไลบรารี `streamlit` เป็น `st` ดังนี้
 
 ```python
 import streamlit as st
 ```
 
-This is followed by creating a header text for the app:
-
+ตามด้วยการสร้างข้อความส่วนที่จะเป็นหัว (header) ในแอป
 ```python
 st.header('st.button')
 ```
 
-Next, we will use conditional statements `if` and `else` for printing alternative messages.
+หลังจากนั้นเราจะใช้รูปแบบคำสั่งกำหนดเงื่อนไข `if` และ `else` สำหรับพิมพ์ข้อความ
 
 ```python
 if st.button('Say hello'):
@@ -55,16 +54,16 @@ else:
      st.write('Goodbye')
 ```
 
-As we can see from the above code box, the `st.button()` command accepts the `label` input argument of `Say hello`, which is the text that the button displays.
+เราสามารถดูได้จากช่องโค้ดด้านบน คำสั่ง `st.button()` สามารถรับ `label` ที่มีค่า `Say hello` เป็นอินพุตสำหรับแสดงข้อความบนปุ่มกด
 
-The `st.write` command is used to print text messages of either `Why hello there` or `Goodbye` depending on whether the button was clicked or not, which is implemented via:
+คำสั่ง `st.write` ใช้เพื่อพิมพ์ข้อความ `Why hello there` หรือ `Goodbye` ขึ้นอยู่กับว่าปุ่มนั้นถูกคลิกหรือไม่ ดังที่แสดงด้านล่างนี้
 
 
 ```python
 st.write('Why hello there')
 ```
 
-and
+และ
 
 ```python
 st.write('Goodbye')
