@@ -13,7 +13,7 @@
 
 ## Demo app
 
-The deployed Streamlit app should look something like the one shown in the below link:
+แอปที่ถูก deploy บน Streamlit Community Cloud จะมีลักษณะเช่นในลิงก์ด้านล่างนี้
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/st.button/)
 
