@@ -1,12 +1,12 @@
 # st.button
 
-`st.button` allows the display of a button widget.
+`st.button` แสดงปุ่มกดใน Streamlit
 
-## What we're building?
+## เราจะสร้างอะไร?
 
-A simple app that performs conditionally prints out alternative messages depending on whether the button was pressed or not.
+แอปที่แสดงข้อความที่ไม่เหมือนกันขึ้นอยู่กับว่าปุ่มถูกกดหรือไม่
 
-Flow of the app:
+ขั้นตอนการทำงานของแอป
 
 1. By default, the app prints `Goodbye`
 2. Upon clicking on the button, the app displays the alternative message `Why hello there`
