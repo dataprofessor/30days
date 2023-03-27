@@ -7,8 +7,8 @@
 - พิมพ์สตริง (string); ทำงานเหมือน `st.markdown()`
 - แสดงดิกชันนารี (`dict`) ในภาษาไพธอน
 - แสดง `pandas` DataFrame ในรูปแบบตาราง
-- Plots/graphs/figures from `matplotlib`, `plotly`, `altair`, `graphviz`, `bokeh`
-- And more (see [st.write on API docs](https://docs.streamlit.io/library/api-reference/write-magic/st.write))
+- การแสดงข้อมูลในรูปแบบ พล็อต/กราฟจาก `matplotlib`, `plotly`, `altair`, `graphviz`, `bokeh`
+- และในรูปแบบอื่นๆ อีกมากมาย (สามารถอ่านเกี่ยวกับ [st.write ใน API docs](https://docs.streamlit.io/library/api-reference/write-magic/st.write))
 
 ## What we're building?
 
