@@ -5,7 +5,7 @@
 นอกจากความสามารถในการแสดงข้อความแล้ว ยังสามารถแสดงสิ่งต่อไปนี้ผ่านคำสั่ง `st.write()`:
 
 - พิมพ์สตริง (string); ทำงานเหมือน `st.markdown()`
-- Displays a Python `dict`
+- แสดงดิกชันนารี (`dict`) ในภาษาไพธอน
 - Displays `pandas` DataFrame can be displayed as a table
 - Plots/graphs/figures from `matplotlib`, `plotly`, `altair`, `graphviz`, `bokeh`
 - And more (see [st.write on API docs](https://docs.streamlit.io/library/api-reference/write-magic/st.write))
